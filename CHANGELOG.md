@@ -5,6 +5,13 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+### Added
+
+  - PCB backup to Git ignore list.
+  - KiCad project, PCB and schematics design.
+  - PDFs for the PCB and schematics.
+
+
 ## 0.1.0 - 2017-09-09
 
 ### Added
