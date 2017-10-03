@@ -1,7 +1,6 @@
 (export (version D)
   (design
-    (source /home/developer/Workspace/unpublished/atmega32u4-minimal/atmega32u4-minimal.sch)
-    (date "Sat 24 Mar 2018 08:34:16 GMT")
+    (source atmega32u4-minimal.sch)
     (tool "Eeschema 4.0.2+dfsg1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
